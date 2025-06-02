@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=192&section=header&text=CHAT%20FRONTEND&fontSize=65&animation=fadeIn&fontColor=FFF)
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Styled%20with-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css" />
